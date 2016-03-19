@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">TravelMaker</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_profile">프로필 보기</string>
+    <string name="main_cover_title">나의 추억을 최고로 만들어 줄\n여행동행을 찾아보세요</string>
+
+    <string name="do_with">동행하기</string>
+    <string name="favorite">북마크</string>
+
+    <string name="do_search">검색하기</string>
+
+    <string name="now_in_tripbox">지금 트래블메이커에서는..</string>
+
+    <string name="filter_button">필터 적용해 검색하기</string>
+
+    <string name="filter_place">장소</string>
+    <string name="filter_date">일정</string>
+    <string name="filter_human">인원</string>
+    <string name="filter_theme">테마</string>
+    <string name="filter_keyword">키워드</string>
+
+    <string name="filter_check_notnow">미정</string>
+    <string name="filter_check_thunder">번개</string>
+
+    <string name="filter_hint_select_date">날짜 선택</string>
+
+    <string name="filter_max">최대</string>
+
+</resources>
